@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Andrey" lastname="Karelin" groupnumber="E-04">
+        <subject title="Mathematics" mark="5"/>
+        <subject title="Chemistry" mark="4"/>
+        <subject title="Physics" mark="5"/>
+        <subject title="Needlework" mark="2"/>
+        <average>3</average>
+    </student>
+    <student firstname="Taras" lastname="Stetsenko" groupnumber="E-12-15">
+        <subject title="Mathematics" mark="3"/>
+        <subject title="Chemistry" mark="5"/>
+        <subject title="Physics" mark="4"/>
+        <subject title="Needlework" mark="5"/>
+        <average>1.0</average>
+    </student>
+    <student firstname="Yulia" lastname="Mendel" groupnumber="St-12">
+        <subject title="Mathematics" mark="5"/>
+        <subject title="Chemistry" mark="4"/>
+        <subject title="Physics" mark="3"/>
+        <subject title="Needlework" mark="5"/>
+        <average>3.8</average>
+    </student>
+    <student firstname="Dastin" lastname="Hoffman" groupnumber="St-12">
+        <subject title="Mathematics" mark="2"/>
+        <subject title="Chemistry" mark="4"/>
+        <subject title="Physics" mark="3"/>
+        <subject title="Needlework" mark="5"/>
+        <average>3.5</average>
+    </student>
+    <student firstname="Igor" lastname="Popov" groupnumber="E-04">
+        <subject title="Mathematics" mark="5"/>
+        <subject title="Needlework" mark="3"/>
+        <average>4.0</average>
+    </student>
+</group>

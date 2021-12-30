@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+        
+    <student firstname="Andrey" groupnumber="E-04" lastname="Karelin">
+                
+        <subject mark="5" title="Mathematics"/>
+                
+        <subject mark="4" title="Chemistry"/>
+                
+        <subject mark="5" title="Physics"/>
+                
+        <subject mark="2" title="Needlework"/>
+                
+        <average>4.0</average>
+            
+    </student>
+        
+    <student firstname="Taras" groupnumber="E-12-15" lastname="Stetsenko">
+                
+        <subject mark="3" title="Mathematics"/>
+                
+        <subject mark="5" title="Chemistry"/>
+                
+        <subject mark="4" title="Physics"/>
+                
+        <subject mark="5" title="Needlework"/>
+                
+        <average>4.3</average>
+            
+    </student>
+        
+    <student firstname="Yulia" groupnumber="St-12" lastname="Mendel">
+                
+        <subject mark="5" title="Mathematics"/>
+                
+        <subject mark="4" title="Chemistry"/>
+                
+        <subject mark="3" title="Physics"/>
+                
+        <subject mark="5" title="Needlework"/>
+                
+        <average>4.3</average>
+            
+    </student>
+        
+    <student firstname="Dastin" groupnumber="St-12" lastname="Hoffman">
+                
+        <subject mark="2" title="Mathematics"/>
+                
+        <subject mark="4" title="Chemistry"/>
+                
+        <subject mark="3" title="Physics"/>
+                
+        <subject mark="5" title="Needlework"/>
+                
+        <average>3.5</average>
+            
+    </student>
+        
+    <student firstname="Igor" groupnumber="E-04" lastname="Popov">
+                
+        <subject mark="5" title="Mathematics"/>
+                
+        <subject mark="3" title="Needlework"/>
+                
+        <average>4.0</average>
+            
+    </student>
+    
+</group>
